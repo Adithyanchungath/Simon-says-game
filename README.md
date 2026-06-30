@@ -1,3 +1,3 @@
 # Simon-game
 My first JavaScript Simon Says game
-https://adithyanchungath.github.io/Simon-says-game/
+Check out :https://adithyanchungath.github.io/Simon-says-game/
